@@ -1,0 +1,12 @@
+# Ejecutables
+*.exe
+
+# Archivos generados por g++
+a.exe
+
+# Archivos objeto
+*.o
+*.obj
+
+# Carpeta build
+build/
