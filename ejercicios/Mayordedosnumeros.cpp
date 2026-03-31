@@ -11,7 +11,7 @@ int main()
     for (int i = 0; i < count; i++) // for para mostrar cuantas veces se va a mostrar el mensaje
     {
         int num = 0; // para almacenar el numero
-        cout << "Ingresa un numero" << endl;
+        cout << "Ingresa un numero: " << endl;
         cin >> num;
         nums.push_back(num); // ingreso al vector
     }
