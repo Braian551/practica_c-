@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 // Contar digitos de un número
 // Ej: 12345 -> tiene su digitos
